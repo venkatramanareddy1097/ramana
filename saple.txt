@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 adding changes from developer2
 white and black
 
+=======
+ i am adding colors to saple text file from dev1
+red and blue
+>>>>>>> developr1
